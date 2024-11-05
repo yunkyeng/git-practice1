@@ -1,1 +1,1 @@
-git merge 같은파일
+git merge
